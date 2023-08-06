@@ -5,7 +5,7 @@
 <style>   
 Body {  
   font-family: Calibri, Helvetica, sans-serif;  
-  background-color: blue;  
+  background-color: yellow;  
 }  
 button {   
        background-color: #4CAF50;   
@@ -24,7 +24,7 @@ button {
         margin: 8px 0;  
         padding: 12px 20px;   
         display: inline-block;   
-        border: 2px dark green;   
+        border: 2px lightgreen;   
         box-sizing: border-box;   
     }  
  button:hover {   
@@ -39,7 +39,7 @@ button {
      
  .container {   
         padding: 25px;   
-        background-color: light yellow;  
+        background-color: light pink;  
     }   
 </style>   
 </head>    
