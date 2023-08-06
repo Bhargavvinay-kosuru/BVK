@@ -5,7 +5,7 @@
 <style>   
 Body {  
   font-family: Calibri, Helvetica, sans-serif;  
-  background-color: babypink;  
+  background-color: skyblue;  
 }  
 button {   
        background-color: #4CAF50;   
