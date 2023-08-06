@@ -32,7 +32,7 @@ button {
     }   
   .cancelbtn {   
         width: auto;   
-        padding: 10px 18px;  
+        padding: 10px 18px; 
         margin: 10px 5px;  
     }   
         
