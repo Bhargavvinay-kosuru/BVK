@@ -51,11 +51,11 @@ button {
             <input type="text" placeholder="Enter Username" name="username" required>  
             <label>Password : </label>   
             <input type="password" placeholder="Enter Password" name="password" required>  
+          <input type="checkbox" checked="checked">
+          remember me
             <button type="submit">Login</button> If new user     
             <button type="button" class="Registerbtn"> Register</button>   
-            Forgot <a href="#"> password? </a>   
-             <input type="checkbox" checked="checked">
-          remember me
+            Forgot <a href="#"> password? </a>
         </div>   
     </form>     
 </body>     
