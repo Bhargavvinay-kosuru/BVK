@@ -15,10 +15,7 @@
 		<h1 class="heading">GeeksforGeeks</h1>
 		<h3 class="title">Sliding Login & Registration Form</h3>
 	</header>
-
-	<!-- container div -->
 	<div class="container">
-
 		<!-- upper button section to select
 			the login or signup form -->
 		<div class="slider"></div>
@@ -26,11 +23,9 @@
 			<button class="login">Login</button>
 			<button class="signup">Signup</button>
 		</div>
-
 		<!-- Form section that contains the
 			login and the signup form -->
 		<div class="form-section">
-
 			<!-- login form -->
 			<div class="login-box">
 				<input type="email"
@@ -41,7 +36,6 @@
 					placeholder="password">
 				<button class="clkbtn">Login</button>
 			</div>
-
 			<!-- signup form -->
 			<div class="signup-box">
 				<input type="text"
